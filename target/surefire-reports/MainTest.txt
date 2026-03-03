@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MainTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.396 s <<< FAILURE! - in MainTest
+testFindUniqueWordsMethod  Time elapsed: 0.021 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <149> but was: <143>
+	at MainTest.testFindUniqueWordsMethod(MainTest.java:146)
+
